@@ -1,1 +1,1 @@
-# CSE316
+Intelligent CPU Scheduler Simulator
