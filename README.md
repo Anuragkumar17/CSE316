@@ -39,3 +39,12 @@ A major drawback is starvation, where low-priority processes may never get execu
 *Performance metrics calculation
 
 *User-friendly interface
+
+![image](https://github.com/user-attachments/assets/59c2b19f-dd21-43b0-bc71-ed90e762b4f2)
+
+![image](https://github.com/user-attachments/assets/7d1a8edb-593a-403f-8952-0d1702509e59)
+
+![image](https://github.com/user-attachments/assets/8fcc4f2e-9880-4fc5-a18e-26594c2efc97)
+![image](https://github.com/user-attachments/assets/7d24d71f-98e3-4d18-850c-5b9223c5102c)
+
+
